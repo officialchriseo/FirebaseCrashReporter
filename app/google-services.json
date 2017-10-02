@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "254496988309",
+    "firebase_url": "https://crash-15e4b.firebaseio.com",
+    "project_id": "crash-15e4b",
+    "storage_bucket": "crash-15e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254496988309:android:ad399260b48471f0",
+        "android_client_info": {
+          "package_name": "app.com.example.ekenechristian.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254496988309-tavtf6qerfum7fa401phtlstdv3o3t4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbM2t-O-zpqeSl7_9i6XFp5zasDT0tZi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
