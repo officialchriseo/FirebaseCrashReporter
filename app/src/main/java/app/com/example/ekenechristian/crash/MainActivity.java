@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         fatalError = (Button) findViewById(R.id.fatal_error);
         fatalError2 = (Button) findViewById(R.id.fatal_error_2);
-        nonFatalError = (Button) findViewById(R.id.non_fata_error);
+        nonFatalError = (Button) findViewById(R.id.non_fatal_error);
 
         fatalError.setOnClickListener(new View.OnClickListener() {
             @Override
